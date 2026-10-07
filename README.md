@@ -10,13 +10,9 @@
   <a href="https://wa.me/573136336446?text=Hola%20William%2C%20vi%20tu%20perfil%20de%20GitHub"><img src="https://img.shields.io/badge/Disponibilidad-inmediata-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Disponibilidad inmediata - WhatsApp"/></a>
 </p>
 
-<details>
-<summary><img src="https://img.shields.io/badge/Read_in_English-374151?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Read in English"/></summary>
-<br/>
-
-Computer Engineer from Cali, Colombia, finishing a specialization in Cybersecurity. I build web systems and process automations with Next.js, Supabase, n8n and AI, and I test them with Cypress and Playwright. One of them is a real-time order system a restaurant uses every day (60–100 orders/day). Open to remote roles in automation, QA and application support.
-
-</details>
+<p align="center">
+  <a href="https://github.com/WilliRV1/WilliRV1/blob/main/README.en.md"><img src="https://img.shields.io/badge/Read_in_English-374151?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Read in English"/></a>
+</p>
 
 <br/>
 
