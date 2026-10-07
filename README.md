@@ -52,14 +52,21 @@ Construyo sistemas y automatizaciones para negocios: entiendo cómo trabaja el n
       <p><a href="https://willirv1.github.io/proyectos/ricuras-fegaf.html">Ver caso de estudio &rarr;</a> <sub>(código privado del cliente)</sub></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://willirv1.github.io/proyectos/kovat.html"><img src="assets/kovat.jpg" alt="Kovat" width="100%"/></a>
+      <h3>Kovat</h3>
+      <p>Plataforma para boxes de entrenamiento funcional: cobros automáticos, cartera por mora, reservas, WOD y aviso de atletas que dejan de venir. En validación con boxes de Cali.</p>
+      <p><b>React · Vite · Supabase · Edge Functions</b></p>
+      <p><a href="https://willirv1.github.io/proyectos/kovat.html">Ver caso de estudio &rarr;</a> · <a href="https://kovat.com.co">kovat.com.co</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://willirv1.github.io/proyectos/psicosst.html"><img src="assets/psicosst.jpg" alt="PsicoSST" width="100%"/></a>
       <h3>PsicoSST</h3>
       <p>Plataforma para la batería de riesgo psicosocial con cifrado, doble factor, auditoría de accesos y firma digital. En validación con psicólogos SST.</p>
       <p><b>Next.js · PostgreSQL · Prisma · Docker · Cypress</b></p>
       <p><a href="https://willirv1.github.io/proyectos/psicosst.html">Ver caso de estudio &rarr;</a> <sub>(código privado)</sub></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://willirv1.github.io/proyectos/dare-league.html"><img src="assets/dare-league.jpg" alt="Dare League" width="100%"/></a>
       <h3>Dare League</h3>
@@ -67,12 +74,18 @@ Construyo sistemas y automatizaciones para negocios: entiendo cómo trabaja el n
       <p><b>React · TypeScript · Supabase · Vercel</b></p>
       <p><a href="https://willirv1.github.io/proyectos/dare-league.html">Ver caso de estudio &rarr;</a> · <a href="https://github.com/WilliRV1/dare-league">Código</a></p>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://willirv1.github.io/proyectos/cp-smile.html"><img src="assets/cp-smile.jpg" alt="C&amp;P Smile" width="100%"/></a>
-      <h3>C&amp;P Smile</h3>
-      <p>Sitios de una clínica odontológica de Cali, su academia y su laboratorio, con versión en inglés para turismo dental.</p>
-      <p><b>React · Vite · Tailwind</b></p>
-      <p><a href="https://willirv1.github.io/proyectos/cp-smile.html">Ver caso de estudio &rarr;</a> · <a href="https://github.com/WilliRV1/cp-smile-academy">Código</a></p>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <table><tr>
+        <td width="50%"><a href="https://willirv1.github.io/proyectos/cp-smile.html"><img src="assets/cp-smile.jpg" alt="C&amp;P Smile" width="100%"/></a></td>
+        <td width="50%" valign="top">
+          <h3>C&amp;P Smile</h3>
+          <p>Sitios de una clínica odontológica de Cali, su academia y su laboratorio, con versión en inglés para turismo dental.</p>
+          <p><b>React · Vite · Tailwind</b></p>
+          <p><a href="https://willirv1.github.io/proyectos/cp-smile.html">Ver caso de estudio &rarr;</a> · <a href="https://github.com/WilliRV1/cp-smile-academy">Código</a></p>
+        </td>
+      </tr></table>
     </td>
   </tr>
 </table>
