@@ -10,12 +10,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/william-reyes-valencia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
   <a href="mailto:williamreyesvalencia04@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Cali,_Colombia-1E293B?style=for-the-badge" alt="Cali, Colombia"/>
-  <img src="https://img.shields.io/badge/Disponibilidad-inmediata-16A34A?style=for-the-badge" alt="Disponibilidad inmediata"/>
+  <a href="https://www.google.com/maps/place/Cali,+Valle+del+Cauca,+Colombia"><img src="https://img.shields.io/badge/Cali,_Colombia-1E293B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Cali, Colombia"/></a>
+  <a href="https://wa.me/573136336446?text=Hola%20William%2C%20vi%20tu%20perfil%20de%20GitHub"><img src="https://img.shields.io/badge/Disponibilidad-inmediata-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Disponibilidad inmediata - WhatsApp"/></a>
 </p>
 
 <details>
-<summary><b>🌎 In English</b></summary>
+<summary><b>In English</b></summary>
 <br/>
 
 Computer Engineer from Cali, Colombia, finishing a specialization in Cybersecurity. I build web systems and process automations with Next.js, Supabase, n8n and AI, and I test them with Cypress and Playwright. One of them is a real-time order system a restaurant uses every day (60–100 orders/day). Open to remote roles in automation, QA and application support.
@@ -24,19 +24,19 @@ Computer Engineer from Cali, Colombia, finishing a specialization in Cybersecuri
 
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
 Ingeniero Informático de la **Universidad Autónoma de Occidente** (Cali), cursando la **especialización en Ciberseguridad**.
 
 Construyo sistemas y automatizaciones para negocios: entiendo cómo trabaja el negocio, veo qué se está haciendo a mano y lo automatizo con **desarrollo web, n8n e IA**, dejándolo **probado y seguro**.
 
-- ⚡ Mi proyecto con más uso: un sistema de comandas que un restaurante usa todos los días, con **60 a 100 órdenes diarias**.
-- 🧪 En la universidad lideré la calidad de MediSync: **+3.500 issues** resueltos en SonarQube y **80,2 % de cobertura**.
-- 🔐 Aplico seguridad desde el inicio: cifrado de datos sensibles, doble factor, control de acceso y Ley 1581.
+- Mi proyecto con más uso: un sistema de comandas que un restaurante usa todos los días, con **60 a 100 órdenes diarias**.
+- En la universidad lideré la calidad de MediSync: **+3.500 issues** resueltos en SonarQube y **80,2 % de cobertura**.
+- Aplico seguridad desde el inicio: cifrado de datos sensibles, doble factor, control de acceso y Ley 1581.
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <table>
   <tr>
@@ -77,7 +77,7 @@ Construyo sistemas y automatizaciones para negocios: entiendo cómo trabaja el n
 
 ---
 
-## 🛠️ Con qué trabajo
+## Con qué trabajo
 
 **Automatización e IA**
 
