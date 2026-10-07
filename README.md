@@ -13,7 +13,7 @@ Construyo sistemas y automatizaciones para negocios: entiendo cómo trabaja el n
 | **[Dare League](https://github.com/WilliRV1/dare-league)** | Inscripciones y pagos para una competencia de CrossFit 1v1: precios por etapa, cupos en tiempo real y panel de aprobación. | React, TypeScript, Supabase, Vercel |
 | **[C&P Smile](https://github.com/WilliRV1/cp-smile-academy)** | Sitios de una clínica odontológica, su academia y su laboratorio, en línea. | React, Vite, Tailwind |
 | **[DoURemember – testing](https://github.com/WilliRV1/douremember-gamificacion-testing)** | Proyecto de equipo: gamificación y suite de pruebas E2E. | Next.js, TypeScript, pruebas E2E |
-| **[MySQL + ProxySQL](https://github.com/WilliRV1/proyecto-mysql-proxysql)** | Proyecto de equipo: balanceo de carga y alta disponibilidad para MySQL. | MySQL, ProxySQL, Docker, Shell |
+| **[MySQL + ProxySQL](https://github.com/WilliRV1/proyecto-mysql-proxysql)** | Proyecto de equipo: balanceo de carga y alta disponibilidad para MySQL. | MySQL, ProxySQL, Vagrant, Shell |
 
 En la universidad también lideré la calidad de **MediSync**: más de 3.500 issues resueltos en SonarQube, 80,2 % de cobertura y pruebas E2E con Playwright.
 
