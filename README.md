@@ -1,6 +1,6 @@
 <!-- Encabezado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:1e3a8a,100:2563eb&height=210&section=header&text=William%20Reyes%20Valencia&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Ingeniero%20Inform%C3%A1tico%20%C2%B7%20Automatizaci%C3%B3n%20e%20IA%20%C2%B7%20Desarrollo%20web%20%C2%B7%20QA&descSize=17&descAlignY=58&animation=fadeIn" alt="William Reyes Valencia" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:374151,100:6b7280&height=210&section=header&text=William%20Reyes%20Valencia&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Ingeniero%20Inform%C3%A1tico%20%C2%B7%20Automatizaci%C3%B3n%20e%20IA%20%C2%B7%20Desarrollo%20web%20%C2%B7%20QA&descSize=17&descAlignY=58" alt="William Reyes Valencia" width="100%"/>
 </p>
 
 <p align="center">
@@ -13,6 +13,14 @@
   <img src="https://img.shields.io/badge/Cali,_Colombia-1E293B?style=for-the-badge" alt="Cali, Colombia"/>
   <img src="https://img.shields.io/badge/Disponibilidad-inmediata-16A34A?style=for-the-badge" alt="Disponibilidad inmediata"/>
 </p>
+
+<details>
+<summary><b>🌎 In English</b></summary>
+<br/>
+
+Computer Engineer from Cali, Colombia, finishing a specialization in Cybersecurity. I build web systems and process automations with Next.js, Supabase, n8n and AI, and I test them with Cypress and Playwright. One of them is a real-time order system a restaurant uses every day (60–100 orders/day). Open to remote roles in automation, QA and application support.
+
+</details>
 
 ---
 
@@ -102,14 +110,6 @@ Construyo sistemas y automatizaciones para negocios: entiendo cómo trabaja el n
 
 ---
 
-<details>
-<summary><b>🌎 In English</b></summary>
-<br/>
-
-Computer Engineer from Cali, Colombia, finishing a specialization in Cybersecurity. I build web systems and process automations with Next.js, Supabase, n8n and AI, and I test them with Cypress and Playwright. One of them is a real-time order system a restaurant uses every day (60–100 orders/day). Open to remote roles in automation, QA and application support.
-
-</details>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,55:1e3a8a,100:0f172a&height=110&section=footer" width="100%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b7280,55:374151,100:111827&height=110&section=footer" width="100%" alt=""/>
 </p>
